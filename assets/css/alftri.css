@@ -1,0 +1,14 @@
+div.card {
+	border-radius: 0px;
+}
+
+.my-card-title {
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+@media only screen and (min-width: 720px) {
+	.page-inner.about {
+		height: 92vh;
+	}
+}
